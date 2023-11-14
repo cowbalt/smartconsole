@@ -16,7 +16,8 @@
             "id": "4227980c-7805-11eb-9439-0242ac130002",
             "description": "voorbeeld tag om http toe te staan",
             "ranges": [
-                "172.31.100.199"
+                "172.31.100.199",
+                "172.31.100.198"
             ]
         }
     ]
